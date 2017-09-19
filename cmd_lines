@@ -1,0 +1,15 @@
+# cmd lines I have learned by using Xshell5
+
+
+#"."  means the present folder
+#"pwd"  print working directory
+
+
+#"cd"   change directory
+eg. cd /home/usr/bin/bowtie2
+#
+
+
+
+#remove folder and content.
+rm -rf ./
