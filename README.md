@@ -1,2 +1,4 @@
 # Start_Linux
-for study of bioinformatics
+Getting started in linux
+
+some command line and shell scripts
